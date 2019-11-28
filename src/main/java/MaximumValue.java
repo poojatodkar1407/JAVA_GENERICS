@@ -1,5 +1,5 @@
 public class MaximumValue {
-    public static Integer maxNumber(Integer num1,Integer num2,Integer num3) {
+    public static Double maxNumber(Double num1,Double num2,Double num3) {
 
         if(num1.compareTo(num2) > 0) {
             return num1;
@@ -14,9 +14,9 @@ public class MaximumValue {
     }
 
     public static void main(String[] args) {
-        Integer num1 = 10;
-        Integer num2 = 20;
-        Integer num3 = 30;
+        Double num1 = 10.10;
+        Double num2 = 20.20;
+        Double num3 = 30.30;
         maxNumber(num1,num2,num3);
     }
 
