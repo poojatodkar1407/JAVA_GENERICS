@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MaxmimumValueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-28T13:05:12" hostname="abc-Lenovo-V130-15IKB" time="0.001">
+<testsuite name="MaxmimumValueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-29T05:11:59" hostname="abc-Lenovo-V130-15IKB" time="0.002">
   <properties/>
-  <testcase name="maximumNumberFloat" classname="MaxmimumValueTest" time="0.001"/>
+  <testcase name="givenThreeFloatValue_WhenProper_ReturnTrue" classname="MaxmimumValueTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
